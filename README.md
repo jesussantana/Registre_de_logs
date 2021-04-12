@@ -30,3 +30,7 @@ The Dades Scientist has provided access to the registrations-Logs on which the a
 
 - Exercise 4:
   - Show me your creativity, Surprise me go one step further with the above analysis.
+
+### BONUS  
+- Build Dashboard In Python – Plotly Dash 
+- Dash is a Python framework, based on Flask, Plotly and ReactJS

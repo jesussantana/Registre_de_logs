@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Registre_de_logs",
+			"path": "."
+		},
+		{
+			"name": "web-log-dash",
+			"path": "../web-log-dash"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
