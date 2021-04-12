@@ -34,4 +34,4 @@ The Dades Scientist has provided access to the registrations-Logs on which the a
 ### BONUS ***
 
 - Build Dashboard In Python – Plotly Dash 
-- Dash is a Python framework, based on Flask, Plotly and ReactJS
+  - Dash is a Python framework, based on Flask, Plotly and ReactJS
