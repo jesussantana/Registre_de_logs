@@ -3,8 +3,14 @@
 ## S05 T01: Log Transformation with Regular Expressions
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
+ 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
-[![wakatime](https://wakatime.com/badge/github/jesussantana/Registre_de_logs.svg)](https://wakatime.com/badge/github/jesussantana/Registre_de_logs) 
+  
+[![Code Time](https://wakatime.com/badge/github/jesussantana/Registre_de_logs.svg)](https://wakatime.com/badge/github/jesussantana/Registre_de_logs)  
+
+[![Linkedin: JesusSantana](https://img.shields.io/badge/-JesusSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chus-santana/)](https://www.linkedin.com/in/chus-santana/)  
+
+[![GitHub JesusSantana](https://img.shields.io/github/followers/jesussantana?label=follow&style=social)](https://github.com/jesussantana)
 ### Description
 
 The analysis of registers is an important function for the control and the alert, the compliance of the security policies, the audit and the regulatory compliance, the response to incidents of security and fins and total forensic investigations. By analyzing the registration data, companies can more easily identify possible threats and problems, address the cause and initiate a rapid response to mitigate the risks.
